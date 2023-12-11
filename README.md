@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10358688.svg)](https://doi.org/10.5281/zenodo.10358688)
+
 # Simulation, Machine Learning, and their Synergy in Addressing Past Socio-Environmental Systems
 Presentation for the 1st international conference on artificIAl Intelligence and applied MAthematics for History and Archaeology (IAMAHA), held on 27-28 November 2023 in Nice, France, and co-organised by [CEPAM](https://www.cepam.cnrs.fr/), [INRIA Côte d'Azur](https://www.inria.fr/fr/centre-inria-universite-cote-azur) and [I3S](https://www.i3s.unice.fr/).
 
